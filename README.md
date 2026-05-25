@@ -31,29 +31,4 @@ The system classifies customer reviews into:
 6. Evaluation
 ## Output
 The model predicts customer sentiment from Amazon reviews.
----
-# requirements.txt
-```txt
-pandas
-numpy
-scikit-learn
-nltk
-matplotlib
-tensorflow
-textblob
-# Recommended GitHub File Structure
-```text
-amazon-review-sentiment-analysis/
-│
-├── README.md
-├── requirements.txt
-├── sentiment_analysis.py
-├── dataset.csv
-├── final_project_report.pdf
-├── screenshots/
-│   ├── output1.png
-│   └── accuracy_graph.png
-└── models/
-    └── svm_model.pkl
 
-     
