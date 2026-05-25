@@ -1,0 +1,11 @@
+review,sentiment
+"This product is amazing",Positive
+"I really loved it",Positive
+"Very good quality",Positive
+"Excellent purchase",Positive
+"Worth the money",Positive
+"Not good",Negative
+"Very bad experience",Negative
+"I hate this product",Negative
+"Waste of money",Negative
+"Poor quality item",Negative
